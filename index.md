@@ -4,7 +4,7 @@ You've got a ship, a destination, and a whole galaxy to explore. Now you just ne
 
 ### What is Space Truckers API
 
-Space Truckers API is an MMOAPI, in extremely early alpha. The endpoints are available at https://spacetruckers.teamrocket.space/ and use HATEOAS to help guide you around, use sensible HTTP methods such as GET, POST and PUT and see what happens.
+Space Truckers API is an MMOAPI, in extremely early alpha. The endpoints are available at <https://spacetruckers.teamrocket.space/> and use HATEOAS to help guide you around, use sensible HTTP methods such as GET, POST and PUT and see what happens.
 
 ### How do I play
 
