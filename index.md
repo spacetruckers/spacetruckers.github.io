@@ -13,3 +13,7 @@ A tool like [Postman](https://www.postman.com/) is a good start. Ideally though,
 ### How do I meet other players?
 
 Join our [Discord](https://discord.gg/bFvNnfQbjX)
+
+### How do I see how things are progressing?
+
+We have a [Trello board](https://trello.com/b/0vQWZOmf/space-truckers-api)
